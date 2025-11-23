@@ -1,0 +1,17 @@
+{
+    "name": "calorie-vision",
+    "version": "1.0.0",
+    "description": "Calculateur de calories en ligne simple",
+    "scripts": {
+        "dev": "cd client && npm run dev",
+        "build": "cd client && npm run build",
+        "preview": "cd client && npm run preview"
+    },
+    "keywords": [
+        "calorie",
+        "calculator",
+        "tracker"
+    ],
+    "author": "",
+    "license": "MIT"
+}
